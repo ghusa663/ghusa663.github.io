@@ -9,10 +9,10 @@ redirect_from:
 
 [Assistant Professor]() \\
 [Biomedical Engineering](https://ltu.edu/engineering/biomedical-engineering/) \\
-[Lawrence Technological University](https://ltu.edu/) \\
+[Lawrence Technological University](https://ltu.edu/)
 
 ## About me
-Hello! I am a tenure-track assistant professor of Biomedical Engineering at Lawrence Technological University (LTU) starting in Fall 2024. Before coming to LTU, I served as a Postdoc Researcher at the University of Maryland School of Medicine, affiliated with the Artificial Organs Laboratory [Link Lab](https://ltu.edu/engineering/biomedical-engineering/https://www.umms.org/ummc/pros/gme/residency/cardiothoracic-surgery/training/research) mentored by Drs. [Zhongjun Wu](https://www.medschool.umaryland.edu/profiles/wu-zhongjun-jon/) and [Bartley Griffith](/https://www.medschool.umaryland.edu/profiles/griffith-bartley/). I earned my Ph.D. in Mechanical Engineering from Mississippi State University in 2019, guided by Drs. [Yucheng Liu] and [Mark F. Horstemeyer]. 
+Hello! I am a tenure-track assistant professor of Biomedical Engineering at Lawrence Technological University (LTU) starting in Fall 2024. Before coming to LTU, I served as a Postdoc Researcher at the University of Maryland School of Medicine, affiliated with the [Artificial Organs Laboratory](https://ltu.edu/engineering/biomedical-engineering/https://www.umms.org/ummc/pros/gme/residency/cardiothoracic-surgery/training/research) mentored by Drs. [Zhongjun Wu](https://www.medschool.umaryland.edu/profiles/wu-zhongjun-jon/) and [Bartley Griffith](/https://www.medschool.umaryland.edu/profiles/griffith-bartley/). I earned my Ph.D. in Mechanical Engineering from Mississippi State University in 2019, guided by Drs. [Yucheng Liu] and [Mark F. Horstemeyer]. 
 
 **Research Interests**: My research focuses on applying and integrating theoretical approaches, computational models and in vitro/in vivo experiments to: 1) understand and characterize tissue behaviors under physiological and pathological conditions, e.g., myocardial and brain tissue; 2) design and optimize blood-contacting medical devices, e.g., extracorporeal membrane oxygenation (ECMO) and left ventricular assist device (LVAD). 
 
@@ -22,4 +22,4 @@ Hello! I am a tenure-track assistant professor of Biomedical Engineering at Lawr
 
 <br/>
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=wECC6jjpBo-urfDvq7wm_CxE9oWypFiTvWbTGEwcFqY"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NgCsEhprGMbQQi7i6CVatDcJC_fV9M0DSMTIwqDL_2Y&cl=ffffff&w=a"></script>
