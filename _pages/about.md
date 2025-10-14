@@ -22,4 +22,4 @@ Hello! I am a tenure-track assistant professor of Biomedical Engineering at Lawr
 
 <br/>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NgCsEhprGMbQQi7i6CVatDcJC_fV9M0DSMTIwqDL_2Y&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1c019"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=NgCsEhprGMbQQi7i6CVatDcJC_fV9M0DSMTIwqDL_2Y&cl=ffffff" /></a>
