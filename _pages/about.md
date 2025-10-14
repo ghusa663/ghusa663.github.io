@@ -17,7 +17,4 @@ Hello! I am a tenure-track assistant professor of Biomedical Engineering at Lawr
 **Research Interests**: My research focuses on applying and integrating theoretical approaches, computational models and in vitro/in vivo experiments to: 1) understand and characterize tissue behaviors under physiological and pathological conditions, e.g., myocardial and brain tissue; 2) design and optimize blood-contacting medical devices, e.g., extracorporeal membrane oxygenation (ECMO) and left ventricular assist device (LVAD). 
 
 
-## News 
 
-<br/>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=NgCsEhprGMbQQi7i6CVatDcJC_fV9M0DSMTIwqDL_2Y'></script>
