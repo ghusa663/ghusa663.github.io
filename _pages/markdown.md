@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Team Members"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-{% include toc %}
 
 Under Construction
 
