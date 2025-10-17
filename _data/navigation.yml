@@ -9,8 +9,8 @@
 
 main:
 
-   - title: "Research"
-     url: /talks/   
+  # - title: "Research"
+  #   url: /talks/   
   
   - title: "Publications"
     url: /publications/ 
@@ -30,5 +30,5 @@ main:
   - title: "Team"
     url: /markdown/
 
-  - title: "Positions"
-    url: /portfolio/
+  #- title: "Positions"
+  # url: /portfolio/
